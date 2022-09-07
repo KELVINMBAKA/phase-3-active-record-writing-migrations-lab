@@ -2,6 +2,10 @@
 
 ## Learning Goals
 
+ bundle exec rake db:create_migration NAME=create_artists
+
+
+ 
 - Write your own migrations
 - Run a migration to create a table
 - Run a migration to add a column to a table
